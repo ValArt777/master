@@ -3,7 +3,7 @@
 //5 -> 1, 8, 27, 64, 125
 Console.Clear();
 Console.Write("Ввeдите чило : ");
-int N = int.Parse(Console.ReadLine());
+int N = int.Parse(Console.ReadLine()!);
 
 int count= 1 ;
 
