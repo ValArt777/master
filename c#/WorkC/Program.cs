@@ -11,5 +11,4 @@ int[] getarray (int size , int minValue , int maxValue)
 }
 
 
- }
 
