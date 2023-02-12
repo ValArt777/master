@@ -1,0 +1,15 @@
+C:\Users\artur\OneDrive\Рабочий стол\Papka\c#\WorkC\54\bin\Debug\net6.0\54.exe
+C:\Users\artur\OneDrive\Рабочий стол\Papka\c#\WorkC\54\bin\Debug\net6.0\54.deps.json
+C:\Users\artur\OneDrive\Рабочий стол\Papka\c#\WorkC\54\bin\Debug\net6.0\54.runtimeconfig.json
+C:\Users\artur\OneDrive\Рабочий стол\Papka\c#\WorkC\54\bin\Debug\net6.0\54.dll
+C:\Users\artur\OneDrive\Рабочий стол\Papka\c#\WorkC\54\bin\Debug\net6.0\54.pdb
+C:\Users\artur\OneDrive\Рабочий стол\Papka\c#\WorkC\54\obj\Debug\net6.0\54.csproj.AssemblyReference.cache
+C:\Users\artur\OneDrive\Рабочий стол\Papka\c#\WorkC\54\obj\Debug\net6.0\54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Рабочий стол\Papka\c#\WorkC\54\obj\Debug\net6.0\54.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Рабочий стол\Papka\c#\WorkC\54\obj\Debug\net6.0\54.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Рабочий стол\Papka\c#\WorkC\54\obj\Debug\net6.0\54.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Рабочий стол\Papka\c#\WorkC\54\obj\Debug\net6.0\54.dll
+C:\Users\artur\OneDrive\Рабочий стол\Papka\c#\WorkC\54\obj\Debug\net6.0\refint\54.dll
+C:\Users\artur\OneDrive\Рабочий стол\Papka\c#\WorkC\54\obj\Debug\net6.0\54.pdb
+C:\Users\artur\OneDrive\Рабочий стол\Papka\c#\WorkC\54\obj\Debug\net6.0\54.genruntimeconfig.cache
+C:\Users\artur\OneDrive\Рабочий стол\Papka\c#\WorkC\54\obj\Debug\net6.0\ref\54.dll
